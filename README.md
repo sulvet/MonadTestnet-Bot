@@ -18,7 +18,7 @@
 
 # Installation+Run💨
 ```shell
-git clone https://github.com/sataroscript/MonadTestnet-Bot
+git clone https://github.com/sulvet/MonadTestnet-Bot
 cd MonadTestnet-Bot
 run.bat
 ```
