@@ -35,7 +35,8 @@ http://username:password:ip:port
 socks5://username:password:ip:port
 ```
 # Showcase🖼
-![monadpreview](https://github.com/user-attachments/assets/a3e29e2a-b14c-42ba-bd7f-1121e756ee26)
+<img width="878" height="424" alt="image" src="https://github.com/user-attachments/assets/f199234a-01dd-4fd5-98a4-0bd28e3ffcdc" />
+
 
 
 
