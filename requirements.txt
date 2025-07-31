@@ -1,7 +1,7 @@
 aiohttp
 annotated-types==0.7.0
 aiofiles==24.1.0
-web3
+web3 
 eth-typing==5.2.0
 eth-utils==5.2.0
 types-requests==2.32.0.20250301
